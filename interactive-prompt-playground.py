@@ -58,7 +58,7 @@ freq_penalty = get_input_with_validation("Frequency Penalty", default=0.0, value
 pres_penalty = get_input_with_validation("Presence Penalty", default=0.0, value_type=float, min_val=0.0, max_val=2.0)
 
 
-models = ["gpt-3.5-turbo", "gpt-4", "gpt-4o"]
+models = ["gpt-3.5-turbo", "gpt-4", "gpt-4o-mini"]
 print("Select a model:")
 for i, m in enumerate(models, start=1):
     print(f"{i}. {m}")
