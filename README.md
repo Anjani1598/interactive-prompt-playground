@@ -51,7 +51,6 @@ This is an interactive Python playground to explore how OpenAI’s language mode
 | Model         | Temperature | Max Tokens | Freq Penalty | Pres Penalty | Output (excerpt)                              |
 | ------------- | ----------- | ---------- | ------------ | ------------ | --------------------------------------------- |
 | gpt-3.5-turbo | 0.0         | 50         | 0.0          | 0.0          | "The iPhone is a sleek, modern smartphone…"   |
-| gpt-4         | 0.7         | 150        | 0.0          | 1.5          | "Experience next-gen tech with the iPhone…"   |
 | gpt-4o        | 1.2         | 300        | 1.5          | 0.0          | "Unleash your digital lifestyle with iPhone…" |
 
 (*Note: actual content may vary, table excerpted for brevity*)
